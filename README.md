@@ -14,8 +14,8 @@ Este é um website para a empresa fictícia **Code**, que oferece soluções par
 
 2. **Página Sobre (`sobre.html`)**   
    - Apresenta a missão da empresa, seus valores e parceiros.   
-   - Inclui um destaque sobre a Fundação Bradesco como cliente, além de imagesns ilustrativas.   
-   -Contém um layout dividido entre texto e imagens para tornar a informação mais acessível.   
+   - Inclui um destaque sobre a Fundação Bradesco como cliente, além de imagens ilustrativas.   
+   - Contém um layout dividido entre texto e imagens para tornar a informação mais acessível.   
 
 3. **Página de Clientes (`clientes.html`)**   
    - Exibe uma lista de alguns dos principais clientes da Code, incluindo links para sites externos.
@@ -23,7 +23,7 @@ Este é um website para a empresa fictícia **Code**, que oferece soluções par
 
 4. **Página de Contato (`contato.html`)**   
    - Possui um formulário de contato para que os visitantes possam enviar mensagens para a empresa.   
-   -A página também fornece informações de contato, como endereço, telefone, e links para redes sociais.   
+   - A página também fornece informações de contato, como endereço, telefone, e links para redes sociais.   
 
 ## Estilos (CSS)   
 
@@ -44,7 +44,7 @@ Este projeto é composto por arquivos HTML e CSS, e não requer nenhum servidor 
 ### Passos para Executar   
 
 1. **Download dos Arquivos:**   
-   - Baixe todos os arquivos do projeto (HTML, CSS, Imagens) para uma pasto no seu computador.   
+   - Baixe todos os arquivos do projeto (HTML, CSS, Imagens) para uma pasta no seu computador.   
 
 2. **Abrir em um Navegador:**   
    - Abra o arquivo `index.html` diretamente em qualquer navegador (Google, Chrome, Firefox etc).   
